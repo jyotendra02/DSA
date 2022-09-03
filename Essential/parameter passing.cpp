@@ -7,6 +7,7 @@ void swap(int x,int y)
     temp = x;
     x = y;
     y = temp;
+    printf(" a is %d b is %d.\n",x,y);
 }
 int main()
 {
