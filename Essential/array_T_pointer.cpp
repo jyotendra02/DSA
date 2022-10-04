@@ -3,7 +3,6 @@
 // Why Cout<<p and cout<<*p Giving Same Result
 // Why p = A; is giving error 
 // For Each Loop Doesn't Work For Pointers
-
 //cout<<p; working in char type {}
 
 
