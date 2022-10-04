@@ -7,7 +7,6 @@ void fun1(int n)
     {
         fun1(n-1);
         cout<<n;
-
     }
 }
 
