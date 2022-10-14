@@ -12,7 +12,7 @@ int fun(int n)
 }
 int main()
 {
-    int x = 5; 
+    int x = 0; 
     printf("%d ",fun(x));
     return 0;
 }
